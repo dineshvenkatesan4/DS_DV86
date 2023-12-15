@@ -5,6 +5,7 @@ FRONTEND - PYTHON
 BACKEND - UI PATH & EXCEL DATA
 
 ABSTRACT
+
 This project aims to develop a solution that facilitates the identification of the best
 products on online shopping websites based on their price, customer reviews, and
 ratings. By leveraging data analytics and visualization techniques, the system
